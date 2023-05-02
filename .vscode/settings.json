@@ -1,0 +1,18 @@
+{
+    "editor.formatOnSave": true,
+    "dart.lineLength": 120,
+    "[dart]": {
+        "editor.rulers": [
+            120
+        ],
+    },
+    "cSpell.words": [
+        "cupertino",
+        "Neue",
+        "nullsafety",
+        "Qnaire",
+        "Qnaires",
+        "rxdart",
+        "subosito"
+    ]
+}
